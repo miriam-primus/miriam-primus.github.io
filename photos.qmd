@@ -1,0 +1,67 @@
+---
+lightbox: true
+---
+
+# Photos
+
+::: grid-layout
+```{=html}
+<style>
+  /* Remove any margins or padding around images */
+  .quarto img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    margin: 0;
+    padding: 0;
+    border-radius: 5px; /* Adjust this value to control the roundness of the corners */
+  }
+ 
+  /* Remove any gaps or spaces in the layout */
+  .quarto .column {
+    padding: 0;
+    margin: 0;
+  }
+ 
+  <!-- /* Optional: if you want to control the space between the images */ -->
+<!-- .quarto .column img { -->
+<!--   margin-bottom: 10px; /* Adjust as needed */ -->
+<!-- } -->
+</style>
+```
+![IUGFS field station near Cardwell, MT](media/field/IMG_4094.jpg){group="my-group"}
+
+![Sawtooth Mountains, ID](media/field/IMG_4672.jpg){group="my-group"}
+
+![Sunset in Montana](media/field/IMG_4697.jpg){group="my-group"}
+
+![San Luis Valley, Colorado](media/field/IMG_5933.jpg){group="my-group"}
+
+![Hollowtop Mountain, MT](media/field/IMG_8895.jpeg){group="my-group"}
+
+![View of the Sand Dunes from my field area in the Sangres](media/field/IMG_6195.jpg){group="my-group"}
+
+![Fieldwork in the Sangres](media/field/IMG_5876.jpg){group="my-group"}
+
+![An old mine with sand dunes in the background](media/field/IMG_5879.jpg){group="my-group"}
+
+![Duncan Cabin](media/field/IMG_6348.jpg){group="my-group"}
+
+![Typical field scene in the Sangres](media/field/IMG_6330.jpg){group="my-group"}
+
+![Choke Cherries in the Sangres](media/field/IMG_5884.jpg){group="my-group"}
+
+![How are the Sangres so beautiful? Sunset while walking back to camp.](media/field/IMG_6298.jpg){group="my-group"}
+
+![Tunnels mapping project near Canon City, CO](media/field/IMG_4718.jpg){group="my-group"}
+
+![Quartzite Ridge](media/field/IMG_6318.jpg){group="my-group"}
+
+![Sand Dunes National Park](media/field/IMG_4464.jpg){group="my-group"}
+
+![Young aspens above the San Luis Valley, CO](media/field/IMG_4508.jpg){group="my-group"}
+
+![San Luis Valley, CO](media/field/IMG_4408.jpg){group="my-group"}
+
+![Rocks in the Sangres](media/field/IMG_6338.jpg){group="my-group"}
+:::

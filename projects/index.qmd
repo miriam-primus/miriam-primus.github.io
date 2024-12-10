@@ -1,0 +1,9 @@
+---
+title: "Pleistocene Incision and Aggradation of the Lower Colorado River"
+description: |
+  Phosphorus delivery is a major water quality concern in the Lake Champlain basin. We quantified sediment and associated P deposition on floodplains to understand nutrient attenuation.
+date: 2023-10
+# categories: [Shiny]
+draft: false
+---
+

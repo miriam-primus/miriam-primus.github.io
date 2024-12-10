@@ -1,0 +1,17 @@
+# Contact
+
+***Feel free to contact me at:***
+
+-   miriam.primus\@colostate.edu
+
+-   www.linkedin.com/in/miriamprimus
+
+::: icon-container
+[{{< fa envelope title="Email" >}}](mailto:miriam.primus@colostate.edu)
+
+[{{< ai google-scholar title="Google Scholar">}}](https://scholar.google.com/citations?user=HOsnJjcAAAAJ&hl=en)
+
+[{{< fa brands github title="GitHub" >}}](https://github.com/miriam-primus/)
+
+[{{< fa brands linkedin title="LinkedIn" >}}](www.linkedin.com/in/miriamprimus)
+:::

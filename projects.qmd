@@ -1,0 +1,32 @@
+# Research
+
+## Current Research
+
+### Kinematic Analysis of the Deadman Creek thrust, Sangre de Cristo Mountains, CO
+
+The Sangre de Cristo Mountains in southern Colorado record a spectacular multiphase deformation history encompassing every major period of tectonism in the Rocky Mountain region. This includes Ancestral Rocky Mountain deformation and sedimentation (\~320 to 270 Ma), Laramide folding and thrusting (\~80 to 55 Ma), and most recent Rio Grande Rift associated extension (\~30 Ma to present) and related magmatism.
+
+As part of my M.S. research, I've focused on detailed geologic mapping (1:10,000), geochronology, and kinematic analysis of the "Deadman Creek Thrust," an area just north of Great Sand Dunes National Park in the Sangre de Cristo Mountains. This feature is a Laramide-age shallowly west-dipping zone of deformation on the western flank of the Sangres. 
+
+![View of the Sand Dunes from my field area in the Sangres](media/field/IMG_6305.jpg){.rectangle-image-2}
+
+Based on our preliminary mapping and analysis, we've found that the sheared rocks in this zone record both top to the NE shear (Laramide thrusting) and later top to the SW shear (Rio Grande Rift extension). We've also found additional Rio Grande Rift-associated normal faults that dissect the range as well as Oligocene gabbroic intrusions. These intrusions likely raised the geothermal gradient enough to cause high-temperature mylonites to form as unusually low depths (\~7km beneath the surface).
+
+With my advisor, John Singleton, our in-progress geologic map and analysis of the deformation in the Deadman Creek Thrust expose the ways in which Rio Grande Rift extension has overprinted older geologic structures of Ancestral Rocky Mountain and Laramide deformation and provides context for a larger conversation about the geologic history of Colorado. Stay tuned for my completed map and publication!
+
+## Other Research
+
+### Pleistocene Incision and Aggradation of the Lower Colorado River
+
+The Lower Colorado River region of Arizona and California contains generally conspicuous fluvial sediments lining the valleys of the Colorado River and several of its tributaries. These deposits consist of mud, sand, and gravel representative of floodplain and channel environments and locally interfingering with alluvial fans emanating from surrounding mountain ranges. Together they record the history of aggradation and incision of the Colorado River during Pleistocene time. 
+
+As an NAGT intern at USGS, I assisted research geologists Adam Hudson and Harrison Gray to better constrain the depositional history recorded by these fluvial sedimentary units using U-Th carbonate and luminescence geochronology. Form the age data, we can make inferences about past drivers of the evolution of the Colorado River.
+
+Click [here](https://doi.org/10.1130/B37579.1) to learn more about this project. 
+
+![Camping at Lake Mohave during my time as an NAGT intern](media/field/IMG_0815.jpg){.rectangle-image-2}
+
+
+
+
+

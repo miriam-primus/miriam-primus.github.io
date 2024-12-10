@@ -1,0 +1,10 @@
+---
+title: "Kinematic Analysis of the Deadman Shear Zone"
+description: |
+  Phosphorus delivery is a major water quality concern in the Lake Champlain basin. We quantified sediment and associated P deposition on floodplains to understand nutrient attenuation.
+date: 2024-12
+# categories: [Shiny]
+draft: false
+---
+
+

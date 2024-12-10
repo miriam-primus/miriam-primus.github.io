@@ -2,17 +2,29 @@ project:
   type: website
 
 website:
-  title: "miriam-primus.github.io"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    title: "Miriam Primus"
+    right:
+      - href: projects.qmd
+        text: "Research"
+      - href: background.qmd
+        text: "Background"
+      - href: photos.qmd
+        text: "Photos"
+      - href: cv.qmd
+        text: "CV"
+      - href: Contact.qmd
+        text: "Contact"
+  search: 
+    location: navbar
+    type: overlay
+  page-footer: 
+    background: light
+    left: Copyright 2024, Miriam Primus
+    right: This website is built with {{<fa heart title="a heart">}}
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: styles.scss
     toc: true
 
 editor: visual

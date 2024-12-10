@@ -1,0 +1,254 @@
+/*-- scss:defaults --*/
+
+// Colors
+$dark-green: #858E79;
+$cream: #FDFBF7;
+$light-green: #D1D9CE;
+$gray: #353B3C;
+$turquoise: #B1EDE8;
+$rosequartz: #BE92A2;
+
+// Base document colors
+$navbar-bg: $gray; // navbar
+$navbar-fg: $light-green; // navbar foreground elements
+$navbar-hl: $rosequartz; // highlight color when hovering over navbar links
+$body-bg: $cream; // page background 
+$body-color: $gray; // page text 
+$footer-bg: $light-green; // footer 
+$link-color: $rosequartz; // hyperlinks 
+
+// Inline code
+$code-bg: $light-green; // inline code background color
+$code-color: $gray; // inline code text color
+
+// Code blocks
+$code-block-bg: $cream; // code block background color 
+
+
+/*-- scss:rules --*/
+
+  
+.icon-container {
+    display: flex; /* Enables flexbox layout */
+    justify-content: left; /* Centers icons horizontally */
+    align-items: center; /* Ensures icons are vertically centered */
+    margin-top: 20px; /* Adds space above the icons */
+    margin-bottom: 5px;
+    gap: 10px; /* Adds spacing between icons (instead of margin on individual icons) */
+    font-size: 40px; /* Adjust the icon size */
+}
+
+
+.header-container {
+  display: flex;
+  justify-content: space-between; /* This places the header and the icons at opposite ends */
+  align-items: center; /* This aligns them vertically at the same height */
+}
+  
+.right-column {
+    width: 70%; /* Left column takes up 70% of the width */
+    padding-left: 20px; /* Adds space between left and right columns */
+}
+ 
+.light-text {
+  color: $cream;
+  letter-spacing: 3px;
+  font-weight: 800;
+}
+
+.left-column-body {
+    width: 30%; /* left column takes up 30% of the width */
+    padding-right: 20px; /* Adds space between left and right columns */
+}
+
+.circle-image {
+    width: 300px; /* Adjust size */
+    height: 300px; /* Maintain equal width and height for a circle */
+    border-radius: 50%; /* Makes the image circular */
+    object-fit: cover; /* Ensures the image fits well inside the circle */
+    margin: 0 auto; /* Centers the image horizontally */
+//    border: 2px solid #ccc; /* Optional: Adds a border around the circle */
+  }
+  
+  
+.rectangle-image {
+  width: 300px;
+  height: 300px; /* Maintain aspect ratio */
+  float: right; /* Position image on the right */
+  object-fit: cover;
+  margin-left: 15px; /* Add space between the image and the text */
+  margin-bottom: 10px; /* Add space at the bottom of the image */
+  border-radius: 5px;  /* Optional: Add rounded corners */
+}
+
+
+.rectangle-image-2 {
+  width: 500px;
+  height: 400px; /* Maintain aspect ratio */
+  display: block;
+  object-fit: cover;
+  float: center; /* Position image on the right */
+  margin-bottom: 10px; /* Add space at the bottom of the image */
+  border-radius: 5px; /* Optional: Add rounded corners */
+}
+
+.horizontal-image {
+  width: 500px;
+  height: 300px; /* Maintain aspect ratio */
+  float: center; /* Position image in center? */
+  object-fit: cover;
+  margin-left: 10px; /* Add space between the image and the text */
+  margin-bottom: 10px; /* Add space at the bottom of the image */
+  border-radius: 5px;  /*Optional: Add rounded corners */
+}
+
+.horizontal-image-2 {
+  width: 45%;
+  height: 300px; /* Maintain aspect ratio */
+  float: center; /* Position image in center? */
+  object-fit: cover;
+  margin-left: 15px; /* Add space between the image and the text */
+  margin-bottom: 10px; /* Add space at the bottom of the image */
+  border-radius: 5px;  /*Optional: Add rounded corners */
+}
+
+.horizontal-image-3 {
+  width: 500px;
+  height: 400px; /* Maintain aspect ratio */
+  object-fit: cover;
+  margin-left: 15px; /* Add space between the image and the text */
+  margin-right: auto;
+  margin-bottom: 10px; /* Add space at the bottom of the image */
+  border-radius: 5px; /* Optional: Add rounded corners */
+}
+
+.horizontal-image-4 {
+  width: 500px;
+  height: 300px; /* Maintain aspect ratio */
+  display: block;
+  object-fit: cover;
+  margin-left: 0 auto; /* Add space between the image and the text */
+  margin-right: 0 auto; /* Add space between the image and the text */
+  margin-bottom: 10px; /* Add space at the bottom of the image */
+  border-radius: 5px;  /*Optional: Add rounded corners */
+}
+
+.horizontal-image-4 {
+  width: 500px;
+  height: 300px; /* Maintain aspect ratio */
+  float: center; /* Position image in center? */
+  object-fit: cover;
+  margin-left: 15px; /* Add space between the image and the text */
+  margin-bottom: 10px; /* Add space at the bottom of the image */
+  border-radius: 5px; /* Optional: Add rounded corners */
+}
+  
+.horizontal-image-5 {
+  width: 28%; /* Set width to 30% to fit three images in a row with space between them */
+  height: 300px; /* Maintain a consistent height */
+  object-fit: cover; /* Maintain aspect ratio while filling the box */
+  margin-bottom: 15px; /* Space at the bottom of each image */
+  border-radius: 5px; /* Optional: Add rounded corners */
+  margin-left: 15px; /* Add space between the image and the text */
+  display: inline-block; /* Allow images to align next to each other */
+}  
+  
+  
+.container {
+    display: flex; /* Places the left and right columns side by side */
+    align-items: flex-start; /* Aligns the items at the top */
+    max-width: 100%; /* Removes any max-width restrictions */
+    padding: 0 1rem; /* Adds some padding if necessary */
+    justify-content: space-between; /* Ensure the columns are spaced out */
+    display: block;/* Ensures the image is treated as a block element */
+    margin: 0 auto 15px auto; /* Centers the image horizontally and adds bottom margin */
+  }
+
+.image-container {
+    display: inline-block; /* Ensures the container doesn't disrupt layout */
+    float: right; /* This ensures the image is positioned on the right */
+    margin-left: 15px; /* Space between the image and the text */
+    margin-bottom: 10px; /* Space at the bottom */
+}
+
+
+.image-container-2 {
+  float: center;
+  justify-content: space-between; /* Align images with space in between */
+  gap: 10px; /* Optional: Adds a consistent gap between images */
+}
+
+ .big-text {
+  color: $gray;
+  letter-spacing: 4px;
+  font-weight: 900;
+  font-size: 30px
+}
+
+.grid-layout {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Create three equal-width columns */
+  gap: 15px; /* Add space between items */
+  margin: 0 auto; /* Ensures the container is centered horizontally */
+  justify-content: center; /* Centers the grid within the parent container */
+ 
+}
+
+.box-layout {
+  display: grid;
+  grid-columns: repeat(1, 1fr); /* Create one column */
+  grid-item-border: true;
+  grid-item-align: left;
+  gap: 15px; /* Add space between items */
+  margin: 0 auto; /* Ensures the container is centered horizontally */
+  justify-content: left; /* Centers the grid within the parent container */
+ 
+}
+
+
+/* Create a box style for each section */
+.box {
+  border: 2px solid $dark-green; /* Border color */
+  border-radius: 0px; /* No rounded corners */
+  padding: 15px;
+  margin-bottom: 20px; /* Space between boxes */
+  background-color: $light-green; /* Background color */
+}
+
+.box ul {
+  list-style-type: disc; /* Bullet points */
+  margin-left: 20px;
+}
+
+
+/* Container for each experience/education entry */
+.experience-entry {
+  display: flex;            /* Flexbox layout */
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-bottom: 20px;      /* Space between entries */
+}
+
+.profile-container {
+  text-align: center; /* Center align everything inside the container */
+  margin-bottom: 20px; /* Add space below the profile photo and caption */
+}
+
+.profile-photo {
+  width: 150px; /* Adjust to your desired size */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 50%; /* Optional: Makes the profile photo circular */
+  margin-bottom: 10px; /* Space between photo and caption */
+}
+
+.caption-container {
+  margin-top: 10px; /* Add space between photo and caption */
+}
+
+.caption {
+  font-size: 16px; /* Adjust font size */
+  color: $gray; /* Set text color */
+  font-style: italic; /* Optional: makes the caption italic */
+  margin: 0; /* Remove default margin */
+}
+

@@ -1,0 +1,51 @@
+---
+format: html
+output:
+  html:
+    title: "CV"  # This will appear in the browser tab, but not on the page.
+    toc: false  # Optional: Removes the table of contents if you have one.
+    self_contained: true
+---
+
+# Curriculum vitae
+
+## Education
+
+{{< fa graduation-cap >}} **MS in Geoscience, expected 2025**\
+Colorado State University
+
+{{< fa graduation-cap >}} **BA in Geology, 2021**\
+Whitman College
+
+{{< fa graduation-cap >}} **BA in German Studies, 2021**\
+Whitman College
+
+## Research Experience
+
+-   **Graduate Research Assistant,** Colorado State University, Fort Collins, CO (August 2023 - Present)
+
+-   **NAGT (National Association of Geoscience Teachers) Intern,** U.S. Geological Survey, Lakewood, CO (May 2022 - Dec 2023)
+
+## Teaching Experience
+
+-   **Graduate Teaching Assistant,** Colorado State University, Fort Collins, CO (August 2023 – May 2024)
+
+-   **Field Camp Teaching Assistant,** Colorado State University, Fort Collins, CO (Summer 2024)
+
+## Professional Experience
+
+-   **Staff Geologist,** Broadbent & Associates, Inc, Parker, CO (October 2021 - April 2022)
+
+## Applicable Skills
+
+-   Planning and executing **geologic field work**
+
+-   Experience using **ESRI** **ArcGIS** and **Adobe Illustrator** to create geologic maps
+
+-   Data analysis and visualization using **RStudio**
+
+-   Preparation of rock samples for geochronologic and geochemical analysis
+
+-   **Google Earth Pro Engine** and **Microsoft Suite**
+
+### Download Full CV: <a href="media/CV M Primus 2.pdf" target="_blank"> <i class="fa fa-file-pdf" style="font-size: 40px; color: $dark-green;"></i> </a>

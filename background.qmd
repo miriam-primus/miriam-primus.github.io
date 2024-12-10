@@ -1,0 +1,29 @@
+# Background
+
+I was born and raised in Denver and consider the Front Range of Colorado my home. As a kid, I spent copious time painting, drawing, and otherwise exploring visual art and participated in my high school's swim team.
+
+I spent my college years exploring the geology of the eastern Washington at `Whitman College` in Walla Walla, Washington. Taking advantage of the liberal arts education model, I double majored in Geology and German Studies and studied abroad at `IES Freiburg` in Germany. I completed `Indiana University's Geology Field Camp` in Summer of 2021. During this time I became interested in geologic field mapping and structural geology of the Rocky Mountains.
+
+![Field Camp mapping project in the Sawtooth Mountains, ID](media/field/IMG_4612.jpg){.rectangle-image-2}
+
+In the year after college, I worked at `Broadbent & Associates, Inc` - an environmental consulting firm - as a field geologist on groundwater remediation projects in Colorado, Wyoming, Utah, and New Mexico. Following this, I was lucky enough to work as an `NAGT intern at USGS` in Lakewood, CO. There, I discovered my interests in isotope geochemistry and geochronology to solve geologic problems.
+
+In 2023 I started my `M.S. degree at Colorado State University`, hoping to pursue interests in geologic field mapping, structural geology, and geochronology. My thesis project is located in the Sangre de Cristo Mountains in Southern Colorado (just north of Great Sand Dunes National Park), where I'm exploring the kinematics and timing of deformation in the Deadman Shear Zone. Please visit the [research](projects.qmd) page to find out more about the things I have worked on.
+
+## Fun Facts About Me
+
+I enjoy taking road trips to national parks,
+
+![](media/IMG_4981.jpg){.horizontal-image-2} ![](media/IMG_5077.jpg){.horizontal-image-2}
+
+participating in triathlons,
+
+![](media/IMG_2057.jpg){.horizontal-image-3}
+
+and showshoeing in the winter.
+
+![](media/IMG_3591.jpg){.horizontal-image-4}
+
+I enjoy finding colorful flora and foliage wherever I go!
+
+![](media/IMG_5172.jpg){.horizontal-image-5} ![](media/IMG_2274.jpg){.horizontal-image-5} ![](media/IMG_6545.jpg){.horizontal-image-5} ![](media/IMG_0741.jpg){.horizontal-image-5} ![](media/IMG_3788.jpg){.horizontal-image-5} ![](media/IMG_1202.jpg){.horizontal-image-5} ![](media/IMG_4574.jpg){.horizontal-image-5} ![](media/IMG_9749.jpg){.horizontal-image-5} ![](media/IMG_2180.jpg){.horizontal-image-5}

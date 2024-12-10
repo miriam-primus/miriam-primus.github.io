@@ -148,7 +148,7 @@ ul.task-list li input[type="checkbox"] {
     object-fit: cover;
     margin: 0;
     padding: 0;
-    border-radius: 15px; /* Adjust this value to control the roundness of the corners */
+    border-radius: 5px; /* Adjust this value to control the roundness of the corners */
   }
  
   /* Remove any gaps or spaces in the layout */
@@ -719,7 +719,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
-<script>var lightboxQuarto = GLightbox({"selector":".lightbox","openEffect":"zoom","loop":false,"descPosition":"bottom","closeEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"loop":false,"selector":".lightbox","descPosition":"bottom","openEffect":"zoom","closeEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
